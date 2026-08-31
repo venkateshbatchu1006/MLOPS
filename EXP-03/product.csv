@@ -1,0 +1,26 @@
+Product_id,Product_name,Category,Unit_price
+P001,Rice,Groceries,60.0
+P002,Milk,Dairy,55.0
+P003,Honey,Groceries,250.0
+P004,Ghee,Dairy,650.0
+P005,Shampoo,Personal Care,180.0
+P006,Rice,Groceries,65.0
+P007,Milk,Dairy,58.0
+P008,Honey,Groceries,280.0
+P009,Ghee,Dairy,700.0
+P010,Shampoo,Personal Care,220.0
+P011,Rice,Groceries,70.0
+P012,Milk,Dairy,60.0
+P013,Honey,Groceries,300.0
+P014,Ghee,Dairy,750.0
+P015,Shampoo,Personal Care,250.0
+P016,Rice,Groceries,75.0
+P017,Milk,Dairy,62.0
+P018,Honey,Groceries,320.0
+P019,Ghee,Dairy,800.0
+P020,Shampoo,Personal Care,280.0
+P021,Rice,Groceries,80.0
+P022,Milk,Dairy,65.0
+P023,Honey,Groceries,350.0
+P024,Ghee,Dairy,850.0
+P025,Biscute,,

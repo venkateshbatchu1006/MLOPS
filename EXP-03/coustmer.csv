@@ -1,0 +1,27 @@
+customer_id,customer_name,Age,Gender,City,Member_ship
+C1001,Venky,19,,guntur,gold
+C1002,teja,20,,hydhrabad,sliver
+C1003,lakshman,16,,nalagonda,platinum
+C1004,lokesh,19,,guntur,platinum
+C1005,harish,30,,pidugralla,silver
+C1006,gopi,32,,vijaywada,silver
+C1007,ram ,32,,guntur,gold
+C1008,charan,26,,guntur,gold
+C1009,ravi,21,,hydhrabad,sliver
+C1010,teja,17,,nalagonda,platinum
+C1011,afrid,12,,guntur,platinum
+C1012,raj,22,,pidugralla,silver
+C1013,kumar,27,,vijaywada,silver
+C1014,shiva,28,,guntur,gold
+C1015,sai,39,,guntur,gold
+C1016,surya,50,,hydhrabad,sliver
+C1017,hemanth,32,,nalagonda,platinum
+C1018,imran,43,,guntur,platinum
+C1019,rahul,54,,dachepalli,silver
+C1020,aditya,21,,vijaywada,silver
+C1021,umesh,24,,guntur,gold
+C1022,karthik,25,,guntur,gold
+C1023,bushan,28,,hydhrabad,sliver
+C1024,sudheer,10,,nalagonda,platinum
+C1025,maruthi,11,,guntur,platinum
+C1026,vijay,19,,tenali,silver
